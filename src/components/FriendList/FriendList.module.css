@@ -17,24 +17,3 @@
 
   border-radius: 6px;
 }
-
-.avatar {
-  border-radius: 6px;
-}
-
-.name {
-  font-weight: 600;
-}
-
-.online,
-.offline {
-  font-size: 12px;
-}
-
-.online {
-  color: #4caf50;
-}
-
-.offline {
-  color: #f44336;
-}
